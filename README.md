@@ -1,0 +1,6 @@
+# Banka-app
+
+
+#my bank application
+THERE ARE VARIOUS FUNCTIONS LIKE TO MAKE MONEY WITHDRAWAL, DEPOSIT, RANDOM ID.
+# Banka-Uygulamas-
